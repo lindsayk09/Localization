@@ -1,6 +1,6 @@
 # Localization
 
-ROS2 localization package for Team Blaze.
+ROS2 localization package for Autonomus Vehicles.
 
 ## Main Contributor
 
