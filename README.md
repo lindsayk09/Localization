@@ -4,7 +4,7 @@ ROS2 localization package for Autonomus Vehicles.
 
 ## Main Contributor
 
-[Lindsay Shantha Rubia]
+Lindsay Shantha Rubia
 
 ## Overview
 
